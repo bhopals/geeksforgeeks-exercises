@@ -47,7 +47,4 @@ class Solution {
 
 const arr = [801, 661, 730, 878, 305, 320, 736, 444, 0, 522];
 const s = new Solution();
-console.log("SEARCH>", s.searchEle(arr, 320));
-console.log("INSERT>", s.insertEle(arr, 555, 4));
-console.log("DELETE>", s.deleteEle(arr, 320));
 console.log(arr);
