@@ -12,6 +12,8 @@
  *
  */
 
+// Time Complexity: O(n Log n)
+// Auxiliary Space : O(1)
 function alternativeSorting(arr) {
   arr.sort((a, b) => a - b);
   let result = [];
